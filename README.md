@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Stefan Phan
 
 🎓 **B.S. Software Engineer (Honors) @ Adelaide University (GPA: 7.00 / 7.00)**  
-🌐 [stefanphan05.vercel.app](https://stefanphan05.vercel.app/) | [LinkedIn]((https://www.linkedin.com/in/stefanphan05/))  
+🌐 [stefanphan05.vercel.app](https://stefanphan05.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/stefanphan05/)  
 
 ---
 
