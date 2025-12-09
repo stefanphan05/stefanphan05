@@ -40,7 +40,7 @@ When I’m not coding, you’ll find me at the gym or basketball court, hooping 
 
 
 ## 📫 Let’s Connect  
-📧 **stefanphan05@gmail.com**  
+📧 stefanphan05@gmail.com  
 🌐 [stefanphan05.vercel.app](https://stefanphan05.vercel.app/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/stefanphan05/)  
 ⭐ [GitHub](https://github.com/stefanphan05)  
